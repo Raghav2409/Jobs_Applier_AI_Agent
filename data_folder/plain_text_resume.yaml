@@ -26,7 +26,7 @@ education_details:
       Business Intelligence: "A"
 
   - education_level: "Bachelor's Degree"
-    institution: "APJ Abdul Kalam Technical University"
+    institution: "Dr. APJ Abdul Kalam Technical University"
     field_of_study: "Information Technology"
     final_evaluation_grade: "3.8"
     year_of_completion: "2021"
@@ -54,6 +54,7 @@ experience_details:
       - "Large Language Models"
       - "Python"
       - "SQL"
+      - "Exploratory Data Analysis (EDA)"
       - "Langchain"
       - "PowerBI"
       - "Tableau"
