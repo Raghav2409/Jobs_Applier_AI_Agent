@@ -26,10 +26,13 @@ date:
   24_hours: true
 
 positions:
-  - Software engineer
+  - Data Scientist
+  - Data Analyst
+  - Machine Learning Engineer
+  - AI Engineer
 
 locations:
-  - Germany
+  - United States of America
 
 apply_once_at_company: true
 
