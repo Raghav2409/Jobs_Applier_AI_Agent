@@ -17,13 +17,26 @@ education_details:
     institution: "California State University East Bay"
     field_of_study: "Data Science"
     final_evaluation_grade: "3.6"
-    start_date: "01/14/2023"
+    start_date: "01/2023"
     year_of_completion: "2024"
     exam:
       Machine Learning: "A"
       Data Mining: "A+"
       Database Applications: "A"
       Business Intelligence: "A"
+
+  - education_level: "Bachelor's Degree"
+    institution: "APJ Abdul Kalam Technical University"
+    field_of_study: "Information Technology"
+    final_evaluation_grade: "3.8"
+    year_of_completion: "2021"
+    start_date: "08/2017"
+    additional_info:
+      exam:
+        Artificial Intelligence: "A+"
+        Database Management: "A"
+        Operating Systems: "A-"
+        Computer Science: "A"
 
 experience_details:
   - position: "Data Scientist - Intern"
@@ -46,7 +59,10 @@ experience_details:
       - "Tableau"
       - "AWS"
       - "Excel"
-
+      - "Embedding Generation"
+      - "Data Chunking"
+      - "OpenAI"
+      
   - position: "President of Analytics Society"
     company: "California State University, East Bay"
     employment_period: "03/2023 - 12/2024"
@@ -76,7 +92,12 @@ experience_details:
       - "Data Analysis"
       - "Collaboration"
       - "Data-Driven Decision Making"
-
+      - "R"
+      - "Spark"
+      - "Git"
+      - "Extract, Transform, Load (ETL)"
+      - "API Development & Deployment"
+      
 projects:
   - name: "LangWeb - Web Traffic Forecasting using High Precision LLM Framework"
     description: "Analyzed user engagement patterns & predicted website traffic with 95% accuracy, using LLMTime framework trained on 100K+ daily website visits data, outperforming statistical ARIMA/SARIMA by 45%"
